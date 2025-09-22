@@ -7,5 +7,5 @@ The main objective of this project is to present a structured collaboration prop
 - Reviewed the Society’s annual report for background and achievements.
 - Analyzed the social media handles to understand outreach and engagement.
 - Studied the Society’s magazine for initiatives and values.
-- Conducted direct conversations with the core team to identify collaboration needs.
+- Conducted direct conversations with the core team to identify collaboration needs.  
  All these inputs were combined into a professional proposal designed to strengthen collaboration with other societies. 
