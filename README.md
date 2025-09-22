@@ -1,2 +1,4 @@
-# collaboration-proposal-
-This repository contains a presentation outlining a collaboration proposal for the Social Welfare Society of Sri Venkateswara College . The proposal highlights key objectives, mutual benefits, and strategic areas of cooperation aimed at driving social impact.
+#Etension-Society (Collaboration Proposal)
+##Proposal Objective 
+The main objective of this project is to present a structured collaboration proposal aimed at enhancing partnerships between inter-college and intra-college societies. The proposal highlights areas of cooperation, mutual benefits, and long-term opportunities to build stronger networks and impactful initiatives.
+##Proposal File 
